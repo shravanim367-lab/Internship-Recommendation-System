@@ -1,2 +1,1 @@
-Internship Recommendation System
-Login Feature Added
+Internship Recommendation System - Main Version
